@@ -1,5 +1,4 @@
 /**
- *
  * Program to demonstrate Constructor Chaining
  * When one constructor calls other then it is referred as Constructor chaining.
  * this and super keywords are used to call a constructor from another constructor.
